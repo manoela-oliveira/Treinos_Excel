@@ -1,0 +1,23 @@
+Generate a script to create 2 tables in postegresql. The first table, called "tbl_cards", should save pokémon TCG (Trading Card Game) cards informations:
+- HP
+- NAME
+- TYPE
+- PREVIOUS STAGE
+- INFO
+- ATTACK
+- DAMAGE
+- WEAKNESS
+- RESISTENCE
+- RETREAT
+- CARD NUMBER IN COLLECTION
+The second table, called "tbl_collections", should be filled with more informations about the cards:
+- ID
+- COLLECTION SET NAME
+- RELEASE DATE
+- TOTAL CARDS IN COLLECTION
+
+Note 1: Connect tables with a FOREIGN KEY
+Note 2: Optimize the varchar fields to perfect size
+Note 3: There´s no need to leave comments
+
+Create another table and lint it to tbl_cards: create a table to separate type and a table to separate stage.
