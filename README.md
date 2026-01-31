@@ -16,9 +16,14 @@ Criação de um organizador de Declaração de Imposto de Renda - Construindo um
 </div>
 
 ## Projeto DIO 03 - Excel com Inteligência Artificial 2°Semestre
+Criação de um organizador de Dashboard de Vendas - Construindo um espaço para a visualização e análise de vendas com base em diferentes tipos de dados, pratiquei o a construção de tabelas e gráficos dinâmicos, entendendo um pouco melhor sobre o uso de dados e experiência do usuário.
+<div align = "center">
+</div>
 
 ## Projeto Alura - Venda Fácil - Formação Excel
 Criação de pasta de Trabalho para Organização de dados e Atividades - Levando em consideração um cliente fictício, no caso do meu projeto a loja de atacados e varejo "Venda Fácil", criei diferentes planilhas com o objetivo de auxiliar na organização de produtos, vendas e análise final de resultados. Na prática, aprendi a montar cálculos, utilizar fórmulas financeiras, comuns e de texto, uniformização visual, construção de Dashboards, construção e análise de gráficos e resolução de problemas.
+<div align = "center">
+</div>
 
 Curso realizado na DIO:
 <p>° Santander - Excel com Inteligência Artificial - 2º Semestre</p>
