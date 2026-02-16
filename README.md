@@ -18,15 +18,27 @@ Criação de um organizador de Declaração de Imposto de Renda - Construindo um
 ## Projeto DIO 03 - Excel com Inteligência Artificial 2°Semestre
 Criação de um organizador de Dashboard de Vendas - Construindo um espaço para a visualização e análise de vendas com base em diferentes tipos de dados, pratiquei o a construção de tabelas e gráficos dinâmicos, entendendo um pouco melhor sobre o uso de dados e experiência do usuário.
 <div align = "center">
+  <img width="760" height="336" alt="Image" src="https://github.com/user-attachments/assets/1e6cbdb2-f2ef-497e-86be-9cbb7be9f2db" />
 </div>
 
 ## Projeto Alura - Venda Fácil - Formação Excel
-Criação de pasta de Trabalho para Organização de dados e Atividades - Levando em consideração um cliente fictício, no caso do meu projeto a loja de atacados e varejo "Venda Fácil", criei diferentes planilhas com o objetivo de auxiliar na organização de produtos, vendas e análise final de resultados. Na prática, aprendi a montar cálculos, utilizar fórmulas financeiras, comuns e de texto, uniformização visual, construção de Dashboards, construção e análise de gráficos e resolução de problemas.
+Criação de pasta de Trabalho para Organização de dados e Atividades - Levando em consideração um cliente fictício, no caso do meu projeto a loja de atacados e varejo "Venda Fácil", criei diferentes planilhas com o objetivo de auxiliar na organização de produtos, vendas e análise final de resultados. Na prática, aprendi a montar cálculos, utilizar fórmulas financeiras, comuns e de texto, uniformização visual, construção de Dashboards, construção e análise de gráficos, resolução de problemas, implementação de gráficos dinâmicos e tabelas dinâmicas, gravação de macros e elaboração de códigos no VBA.
 <div align = "center">
+  <img width="922" height="263" alt="Image" src="https://github.com/user-attachments/assets/d24f19b3-8ab2-4280-acb3-80cb2ae28782" />
 </div>
+<div align = "center">
+  <img width="917" height="272" alt="Image" src="https://github.com/user-attachments/assets/d8c4f9d8-95e2-492e-a158-74bbe322e2a3" />
+</div>
+<div align = "center">
+  <img width="878" height="292" alt="Image" src="https://github.com/user-attachments/assets/f72257f7-2a72-4dd7-ad8d-e9263a88edf6" />
+</div>
+
+#
 
 Curso realizado na DIO:
 <p>° Santander - Excel com Inteligência Artificial - 2º Semestre</p>
+
+#
 
 <p>Cursos realizados na Alura:</p>
 <p>° Excel: domine o editor de planilhas</p>
@@ -36,4 +48,4 @@ Curso realizado na DIO:
 <p>° Excel: utilizando tabelas dinâmicas e gráficos dinâmicos</p>
 <p>° Excel: automatizando tarefas com Macros</p>
 
-<p>Nota: Ao concluir todos os cursos desta lista, você recebe um certificado de "Formação em Excel", visto que juntos eles fornecem um conhecimento aprofundado da ferramenta.</p>
+<p>Nota: Ao concluir todos os cursos desta lista na Alura, você recebe um certificado de "Trilha Excel", visto que juntos eles fornecem um conhecimento aprofundado da ferramenta.</p>
